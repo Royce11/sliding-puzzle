@@ -1,0 +1,138 @@
+@CHARSET "ISO-8859-1";
+
+div{
+	background-image: url('puzzle.jpg');
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	border-style: solid;
+	border-width: 1px;
+	animation-duration: 0.1s;
+}
+
+#myspace1{
+	background-position: 0px 0px;
+	left: 0px;
+	top: 0px;
+	animation-name: slideAnimation1;
+}
+
+#myspace2{
+	background-position: -100px 0px;
+	left: 100px;
+	top: 0px;
+	animation-name: slideAnimation2;
+}
+
+#myspace3{
+	background-position: -200px 0px;
+	left: 200px;
+	top: 0px;	
+	animation-name: slideAnimation3;
+}
+
+#myspace4{
+	background-position: -300px 0px;
+	left: 300px;
+	top: 0px;
+	animation-name: slideAnimation4;
+}
+
+#myspace5{
+	background-position: 0px -100px;
+	left: 0px;
+	top: 100px;	
+	animation-name: slideAnimation5;
+}
+
+#myspace6{
+	background-position: -100px -100px;
+	left: 100px;
+	top: 100px;	
+	animation-name: slideAnimation6;
+}
+
+#myspace7{
+	background-position: -200px -100px;
+	left: 200px;
+	top: 100px;
+	animation-name: slideAnimation7;
+}
+
+#myspace8{
+	background-position: -300px -100px;
+	left: 300px;
+	top: 100px;	
+	animation-name: slideAnimation8;
+}
+
+#myspace9{
+	background-position: 0px -200px;
+	left: 0px;
+	top: 200px;	
+	animation-name: slideAnimation9;
+}
+
+#myspace10{
+	background-position: -100px -200px;
+	left: 100px;
+	top: 200px;	
+	animation-name: slideAnimation10;
+}
+
+#myspace11{
+	background-position: -200px -200px;
+	left: 200px;
+	top: 200px;
+	animation-name: slideAnimation11;
+}
+
+#myspace12{
+	background-position: -300px -200px;
+	left: 300px;
+	top: 200px;	
+	animation-name: slideAnimation12;
+}
+
+#myspace13{
+	background-position: 0px -300px;
+	left: 0px;
+	top: 300px;	
+	animation-name: slideAnimation13;
+}
+
+#myspace14{
+	background-position: -100px -300px;
+	left: 100px;
+	top: 300px;
+	animation-name: slideAnimation14;
+}
+
+#myspace15{
+	background-position: -200px -300px;
+	left: 200px;
+	top: 300px;	
+	animation-name: slideAnimation15;
+}
+
+#junk{
+	background-image:none;
+	background-color: #ff8080;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 500px;
+	top: 200px;
+	float: right;
+}
+
+#junk2{
+	background-image:none;
+	background-color: #008080;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 500.5px;
+	top: 300px;
+	float: right;
+}

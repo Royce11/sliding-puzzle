@@ -1,0 +1,193 @@
+@CHARSET "ISO-8859-1";
+
+#myspace1{
+	/*background-color: #ff8080;*/
+	background-image: url('puzzle.jpg');
+	background-position: 0px 0px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+#myspace2{
+	/*background-color: #ffff80;*/
+	background-image: url('puzzle.jpg');
+	background-position: -100px 0px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 100px;
+	top: 0px;
+}
+
+#myspace3{
+	/*background-color: #80ff80;*/
+	background-image: url('puzzle.jpg');
+	background-position: -200px 0px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 200px;
+	top: 0px;	
+}
+
+#myspace4{
+	/*background-color: #0080ff;*/
+	background-image: url('puzzle.jpg');
+	background-position: -300px 0px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 300px;
+	top: 0px;
+}
+
+#myspace5{
+	/*background-color: #ff80c0;*/
+	background-image: url('puzzle.jpg');
+	background-position: 0px -100px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 0px;
+	top: 100px;	
+}
+
+#myspace6{
+	/*background-color: #ff0000;*/
+	background-image: url('puzzle.jpg');
+	background-position: -100px -100px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 100px;
+	top: 100px;	
+}
+
+#myspace7{
+	/*background-color: #ff8040;*/
+	background-image: url('puzzle.jpg');
+	background-position: -200px -100px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 200px;
+	top: 100px;
+}
+
+#myspace8{
+	/*background-color: #8080ff;*/
+	background-image: url('puzzle.jpg');
+	background-position: -300px -100px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 300px;
+	top: 100px;	
+}
+
+#myspace9{
+	/*background-color: #8000ff;*/
+	background-image: url('puzzle.jpg');
+	background-position: 0px -200px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 0px;
+	top: 200px;	
+}
+
+#myspace10{
+	/*background-color: #808000;*/
+	background-image: url('puzzle.jpg');
+	background-position: -100px -200px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 100px;
+	top: 200px;	
+}
+
+#myspace11{
+	/*background-color: #408080;*/
+	background-image: url('puzzle.jpg');
+	background-position: -200px -200px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 200px;
+	top: 200px;
+}
+
+#myspace12{
+	/*background-color: #b9eb94;*/
+	background-image: url('puzzle.jpg');
+	background-position: -300px -200px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 300px;
+	top: 200px;	
+}
+
+#myspace13{
+	/*background-color: #d6daa5;*/
+	background-image: url('puzzle.jpg');
+	background-position: 0px -300px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 0px;
+	top: 300px;	
+}
+
+#myspace14{
+	/*background-color: #aeced0;*/
+	background-image: url('puzzle.jpg');
+	background-position: -100px -300px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 100px;
+	top: 300px;
+}
+
+#myspace15{
+	/*background-color: #9c94eb;*/
+	background-image: url('puzzle.jpg');
+	background-position: -200px -300px;
+	text-shadow: olive;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 200px;
+	top: 300px;	
+}
+
+#junk{
+	/*background-color: purple;*/
+	background-image: url('puzzle.jpg');
+	background-position: -100px -100px;
+	/*background-repeat: no-repeat;*/
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 500px;
+	top: 200px;
+}
